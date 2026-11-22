@@ -8,3 +8,7 @@ Actions.
 3. После слияния в `main` MkDocs собирает статический сайт.
 4. GitHub Pages публикует артефакт сборки.
 Адрес будущего сайта: `https://glebkapsutin.github.io/devops-docs/`.
+
+**Проверяемый выпуск: 2.**
+
+[Проверочная ссылка](missing-page.md)
