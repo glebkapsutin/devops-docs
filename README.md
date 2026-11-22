@@ -1,2 +1,3 @@
 # devops-docs
-Учебный проект по DevOps
+
+Учебный проект. Pylint, MkDocs и GitHub Pages.
